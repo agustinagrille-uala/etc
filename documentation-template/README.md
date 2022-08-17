@@ -49,6 +49,9 @@ _En esta sección podés incluir información de cómo será la ejecución del C
 Y por qué no, algún diagrama de flujo que adicione esa info o notas adicionales con un How To del deploy 🔎
 ```
 
+---
+
+![cicd](ejemplo_cicd.svg)
 
 ## Documentación adicional 📌
 
